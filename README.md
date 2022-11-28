@@ -1,0 +1,2 @@
+# simpleFOC_sample
+simpleFOCのサンプル。これとMotorcontrollerを融合して足制御クラス作ってクレメンス
